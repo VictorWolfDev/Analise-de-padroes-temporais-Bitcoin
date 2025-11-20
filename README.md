@@ -10,4 +10,3 @@
 - Base de dados
 - Scripts
 - Análises exploratórias
-- Gráficos e insights
